@@ -3,7 +3,7 @@ extends Control
 
 enum Tool {PAINT, FILL}
 
-var plugin : EditorPlugin
+var plugin
 
 const scroll_speed = 0.3
 var image : Image
